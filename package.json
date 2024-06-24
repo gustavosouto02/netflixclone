@@ -1,7 +1,7 @@
 {
   "name": "netflixclone",
   "version": "0.1.0",
-  "homepage": "https://gustavosouto02.github.io/netflixclone",
+  "homepage": "https://gustavosouto02.github.io/netflixclone/",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
